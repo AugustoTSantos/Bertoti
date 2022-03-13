@@ -8,7 +8,7 @@
 
 
 ### Atividade 04/03/22 p2: Requesitos não Funcionais
-![Atividade 04/03/22 p2](https://github.com/MrZeroLeft/Bertoti/blob/main/Atividade%20EdS%2004.06.22%20p2.png)
+![Atividade 04/03/22 p2](https://github.com/MrZeroLeft/Bertoti/blob/main/Atividade%20EdS%2004.03.22%20p2.png)
 
 
 ### Atividade 07/03/22: Story Cards
