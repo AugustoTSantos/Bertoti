@@ -3,6 +3,8 @@
 ## Aula de Engenharia de Software
 
 
+## Ciclo de Vida do Desenvolvimento do Software
+
 ### Atividade 04/03/22 p1: Requisitos Funcionais
 ![Atividade 04/03/22 p1](https://github.com/MrZeroLeft/Bertoti/blob/main/Atividade%20EdS%2004.03.22%20p1.png)
 
@@ -20,3 +22,9 @@ Como aluno às vezes eu preciso dar uma atualização nas minhas atividades, sel
 Como aluno eu preciso acessar minhas matérias eu faço isso abrindo o teams e selecionando a barra de equipes.
 
 Como professor eu preciso criar reuniões,selecionando  a equipe da minha matéria, e selecionando iniciar reunião.
+
+### Projeto
+classes
+
+### Desenvolvimento
+slide 23/24/25 + código
