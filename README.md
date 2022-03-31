@@ -16,13 +16,10 @@ usando de exemplo uma plataforma de comunicação
 
 ### Atividade 07/03/22: Story Cards
 
-Como aluno eu preciso postar minhas atividades no Teams, selecionando a equipe da atividade em questão, selecionando tarefas e então fazendo upload, para que eu consiga nota.
-
-Como aluno às vezes eu preciso dar uma atualização nas minhas atividades, selecionando a equipe da atividade em questão, e clicar em editar entrega na aba de tarefas.
-
-Como aluno eu preciso acessar minhas matérias eu faço isso abrindo o teams e selecionando a barra de equipes.
-
-Como professor eu preciso criar reuniões,selecionando  a equipe da minha matéria, e selecionando iniciar reunião.
+![1](https://github.com/MrZeroLeft/Bertoti/blob/main/Cards/1.pdf)
+![2](https://github.com/MrZeroLeft/Bertoti/blob/main/Cards/2.pdf)
+![3](https://github.com/MrZeroLeft/Bertoti/blob/main/Cards/3.pdf)
+![4](https://github.com/MrZeroLeft/Bertoti/blob/main/Cards/4.pdf)
 
 ### Projeto
 classes
