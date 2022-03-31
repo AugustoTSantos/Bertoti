@@ -10,7 +10,7 @@ usando de exemplo uma plataforma de comunicação
 ![Atividade 04/03/22 p1](https://github.com/MrZeroLeft/Bertoti/blob/main/Atividade%20EdS%2004.03.22%20p1.png)
 
 
-### Atividade 04/03/22 p2: Requesitos não Funcionais
+### Atividade 04/03/22 p2: Requesitos não Funcionais / Wireframe
 ![Atividade 04/03/22 p2](https://github.com/MrZeroLeft/Bertoti/blob/main/Atividade%20EdS%2004.03.22%20p2.png)
 
 
