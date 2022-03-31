@@ -4,6 +4,7 @@
 
 
 ## Ciclo de Vida do Desenvolvimento do Software
+usando de exemplo uma plataforma de comunicação
 
 ### Atividade 04/03/22 p1: Requisitos Funcionais
 ![Atividade 04/03/22 p1](https://github.com/MrZeroLeft/Bertoti/blob/main/Atividade%20EdS%2004.03.22%20p1.png)
