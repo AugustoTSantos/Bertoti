@@ -16,10 +16,10 @@ usando de exemplo uma plataforma de comunicação
 
 ### Atividade 07/03/22: Story Cards
 
-![1](https://github.com/MrZeroLeft/Bertoti/blob/main/Cards/1.pdf)
-![2](https://github.com/MrZeroLeft/Bertoti/blob/main/Cards/2.pdf)
-![3](https://github.com/MrZeroLeft/Bertoti/blob/main/Cards/3.pdf)
-![4](https://github.com/MrZeroLeft/Bertoti/blob/main/Cards/4.pdf)
+![1](https://github.com/MrZeroLeft/Bertoti/blob/main/Cards/1.png)
+![2](https://github.com/MrZeroLeft/Bertoti/blob/main/Cards/2.png)
+![3](https://github.com/MrZeroLeft/Bertoti/blob/main/Cards/3.png)
+![4](https://github.com/MrZeroLeft/Bertoti/blob/main/Cards/4.png)
 
 ### Diagrama de Classes
 ![DiagramaClasse.drawio](https://github.com/MrZeroLeft/Bertoti/blob/main/DiagramaClasse.drawio.png)
