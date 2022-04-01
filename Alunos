@@ -1,9 +1,0 @@
-package Bertoti;
-
-public class Alunos {
-    public static void main(String[] args) {
-       String nome;
-       String id;
-       String materias; 
-    }
-}
