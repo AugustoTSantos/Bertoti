@@ -21,8 +21,8 @@ usando de exemplo uma plataforma de comunicação
 ![3](https://github.com/MrZeroLeft/Bertoti/blob/main/Cards/3.pdf)
 ![4](https://github.com/MrZeroLeft/Bertoti/blob/main/Cards/4.pdf)
 
-### Projeto
-classes
+### Diagrama de Classes
+![DiagramaClasse.drawio](https://github.com/MrZeroLeft/Bertoti/blob/main/DiagramaClasse.drawio.png)
 
 ### Desenvolvimento
 slide 23/24/25 + código
