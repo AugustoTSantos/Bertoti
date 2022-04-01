@@ -31,4 +31,7 @@ public class Disciplina {
     public void setProfessor(String novoProfessor) {
         this.professor = novoProfessor;
     }
+
+    public void add(Disciplina disciplina) {
+    }
 }

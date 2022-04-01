@@ -40,4 +40,7 @@ public class Pessoas {
     void setFuncao(String novaFuncao) {
         this.funcao = novaFuncao;
     }
+
+    public void add(Pessoas pessoas) {
+    }
 }
