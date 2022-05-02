@@ -6,7 +6,7 @@
 usando de exemplo uma plataforma de comunicação
 
 ### Requisitos Funcionais / Diagrama de Casos de Uso
-![Atividade 04/03/22 p1](https://github.com/MrZeroLeft/Bertoti/blob/main/Atividade%20EdS%2004.03.22%20p1.png)
+![Atividade 04/03/22 p1](https://github.com/MrZeroLeft/Bertoti/blob/main/Imagens/Atividade%20EdS%2004.03.22%20p1.png)
 
 ### Story Cards
 ![1](https://github.com/MrZeroLeft/Bertoti/blob/main/Imagens/Cards/1.png)
