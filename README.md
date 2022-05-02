@@ -21,6 +21,3 @@ usando de exemplo uma plataforma de comunicação
 ![DiagramaClasse.drawio](https://github.com/MrZeroLeft/Bertoti/blob/main/DiagramaClasse.drawio.png)
 
 ### Desenvolvimento
-![Disciplina](https://github.com/MrZeroLeft/Bertoti/blob/main/C%C3%B3digos/Disiplina.png)
-![Pessoas](https://github.com/MrZeroLeft/Bertoti/blob/main/C%C3%B3digos/Pessoas.png)
-![PlataformaComunicacao](https://github.com/MrZeroLeft/Bertoti/blob/main/C%C3%B3digos/PlataformaComunicacao.png)
