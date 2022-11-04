@@ -9,13 +9,15 @@
     <body>
         <img id="gato" scr="gato.jpg"/>
         <script>
-            fetch('gato.jpg').then(response => {
-                console.log(response);
-                return response.blob();
-            }).then(blob => {
-                console.log(blob);
-                document.getElementById('gato').scr = URL.createObjectURL(blob);
+            catchGato().catch(error => {
+                console.log('error!');
+                console.error(error);
             });
+            async function catchGato() {
+                const response = await fetch('gato.jpg')
+                const blob = await response.blob
+                document.getElementById('gato').src = URL.createObjectURL(blob);
+            };
         </script>
     </body>
 </html>
