@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="./assets/icon.png" />
+    <title>Atividade Lab3</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script
+      src="https://kit.fontawesome.com/b64b59d2ee.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="divider"></div>
+    <header class="header">
+        <img class="header__img" src="./assets/search-bg.jpg" alt="" />
+        <div class="header__content">
+            <div class="card__search--container"></div>
+        </div>
+    </header>
+    <div class="divider">
+    </div>
+    <div class="card__search--menu">
+        <div class="row">
+        <div class="filters">
+            <select id="filter-menu" onchange="sortChange(event)">
+                <option value disabled selected>Sort By</option>
+                <option value="MANA_LOW_TO_HIGH">Mana: Low to High</option>
+                <option value="MA">Mana: High to Low</option>
+                <option value="NAME_A_TO_Z">Card Name: A to Z</option>
+                <option value="MANA_Z_TO_A">Card Name: Z to A</option>
+            </select>
+            <select id="filter-menu" onchange="setChange(event)">
+                <option value="voyage-to-the-sunken-city" selected>Voyage to the Sunken City</option>
+                <option value="murder-at-castle-nathria">Murder at Castle Nathria</option>
+                <option value="fractured-in-alterac-valley">Fractured in Alterac Valley</option>
+                <option value="united-in-stormwind">United in Stormwind</option>
+                <option value="forged-in-the-barrens">Forged in the Barrens</option>
+                <option value="core">Core Set</option>
+            </select>
+            <select id="filter-menu" onchange="classChange(event)">
+                <option value="NONE" selected>All Classes</option>
+                <option value="Druid">Druid</option>
+                <option value="Mage">Mage</option>
+                <option value="Paladin">Paladin</option>
+                <option value="Rogue">Rogue</option>
+                <option value="Warlock">Warlock</option>
+                <option value="Warrior">Warrior</option>
+                <option value="Priest">Priest</option>
+                <option value="Shaman">Shaman</option>
+                <option value="Hunter">Hunter</option>
+                <option value="Demon Hunter">Demon Hunter</option>
+                <option value="Neutral">Neutral</option>
+            </select>
+        </div>
+        <ul class="mana-cost">
+            <li class="mana__title">Mana Cost</li>
+            <li class="mana-symbol" onclick="manaChange(0), toggleActive(1)">
+                <img src="./assets/crystal.png" alt="" class="crystal__img not-active" id="1">
+                <h2 class="mana-num">0</h1>
+            </li>
+            <li class="mana-symbol" onclick="manaChange(1), toggleActive(2)">
+                <img src="./assets/crystal.png" alt="" class="crystal__img not-active" id="2">
+                <h2 class="mana-num">1</h1>
+            </li>
+            <li class="mana-symbol" onclick="manaChange(2), toggleActive(3)">
+                <img src="./assets/crystal.png" alt="" class="crystal__img not-active" id="3">
+                <h2 class="mana-num">2</h1>
+            </li>
+            <li class="mana-symbol" onclick="manaChange(3), toggleActive(4)">
+                <img src="./assets/crystal.png" alt="" class="crystal__img not-active" id="4">
+                <h2 class="mana-num">3</h1>
+            </li>
+            <li class="mana-symbol" onclick="manaChange(4), toggleActive(5)">
+                <img src="./assets/crystal.png" alt="" class="crystal__img not-active" id="5">
+                <h2 class="mana-num">4</h1>
+            </li>
+            <li class="mana-symbol" onclick="manaChange(5), toggleActive(6)">
+                <img src="./assets/crystal.png" alt="" class="crystal__img not-active" id="6">
+                <h2 class="mana-num">5</h1>
+            </li>
+            <li class="mana-symbol" onclick="manaChange(6), toggleActive(7)">
+                <img src="./assets/crystal.png" alt="" class="crystal__img not-active" id="7">
+                <h2 class="mana-num">6</h1>
+            </li>
+            <li class="mana-symbol" onclick="manaChange('seven-up'), toggleActive(8)">
+                <img src="./assets/crystal.png" alt="" class="crystal__img not-active" id="8">
+                <h2 class="mana-num crystal-seven">7+</h1>
+            </li>
+            <li class="mana-symbol" onclick="manaChange('NONE'), toggleActive('*')">
+                <img src="./assets/crystal.png" alt="" class="crystal__img" id="*">
+                <h2 class="mana-num crystal-all">All</h1>
+            </li>
+        </ul>
+        </div>
+    </div>
+    <div class="divider"></div>
+    <div class="not-loading loading-state">
+        <i class="fa-solid fa-spinner"></i>
+    </div>
+    <div class="not-loading no-results">
+        <h1>No results</h1>
+        <i class="fa-solid fa-circle-exclamation"></i>
+        <h3 class="no-results__sub">Try adjusting filters or reset here:</h3>
+        <a href="./browse.html"><button class="btn"><i class="fa-solid fa-arrows-rotate"></i></button></a>
+    </div>
+    <div class="card__search--list">
+    </div>
+    <div class="divider"></div>
+    <footer>
+        <div class="row footer__row">
+          <figure>
+            <a href="#">
+              <img src="./assets/icon.png" alt="" class="footer__logo" />
+            </a>
+          </figure>
+        </div>
+      </footer>
+  </body>
+  <script src="./index.js"></script>
+</html>
