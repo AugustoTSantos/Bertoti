@@ -54,14 +54,16 @@
                 const response = await fetch('ZonAnn.Ts+dSST.csv');
                 const data = await response.text();
                 const row = data.split('\n').slice(1);
-                table.forEach(row => {
+                tables.forEach(row => {
                     const columns = row.split(',');
                     const Year = columns[0];
                     xlabels.push(Year);
-                    console.log(xlabels)
+                    console.log(xlabels);
+                    alert(xlabels);
                     const Glob = columns[1];
                     ylabels.push(Glob);
                     console.log(ylabels);
+                    alert(ylabels);
                     const NHem = columns[2];
                     const SHem = columns[3];
                 });
