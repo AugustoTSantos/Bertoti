@@ -1,6 +1,7 @@
 package estrategia;
 
 public class Jogo {
+
     private Personagem personagem;
 
     public void personagemAtacar() {
@@ -9,5 +10,6 @@ public class Jogo {
 
     public void setPersonagem(Personagem personagem) {
         this.personagem = personagem;
-    }    
+    }
+    
 }
