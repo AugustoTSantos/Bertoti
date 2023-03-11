@@ -27,16 +27,6 @@ public class CanalSubject implements CanalSubjectInterface{
     }
 
     @Override
-    public void notifyInscritoVideo(InscritoObserver inscrito) {
-        inscrito.updateVideo(video);
-    }
-
-    @Override
-    public void notifyInscritoPost(InscritoObserver inscrito) {
-        inscrito.updateVideo(post);
-    }
-
-    @Override
     public void notifyAllInscritosVideo() {
         for(InscritoObserver inscrito : inscritos) {
             inscrito.updateVideo(video);
