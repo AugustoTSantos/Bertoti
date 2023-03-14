@@ -1,0 +1,15 @@
+<details>
+    <summary>Estrategy</summary>
+    <br>
+    <p align="center">
+        <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/padroesProjetosSistemas/estrategia/Diagrama_UML.png">
+    </p>
+</details>
+
+<details>
+    <summary>Observer</summary>
+    <br>
+    <p align="center">
+        <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/padroesProjetosSistemas/observer/DiagramaObserver.png">
+    </p>
+</details>
