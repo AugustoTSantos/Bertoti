@@ -70,15 +70,20 @@
 <details>
     <summary>Minhas Contribuições</summary>
     <br>
-
+    <p>
+        Fiz e atualizei durante o projeto a estrutura do nosso banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta.
+    </p>
 <details>
     <summary>Modelagem e Criação do Banco de Dados</summary>
+    <br>
+    Modelo Conceitual
     <p align="center">
-        <img src="modelo conceitual">
+        <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Conceitual.png">
     </p>
     <br>
+    Modelo Lógico
     <p align="center">
-        <img src="modelo lógico">
+        <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Logico.png">
     </p>
     <br>
     <a href="https://github.com/DatatechOffice/Api_Iacit/tree/main/Banco/Querys%20-%20IACIT">
@@ -89,10 +94,6 @@
         <p>Dicionário de Dados</p>
     </a>
 </details>
-    <p>
-        Fiz e atualizei durante o projeto a estrutura do nosso banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta.
-    </p>
-
 </details>
 
 
