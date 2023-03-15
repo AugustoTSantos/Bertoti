@@ -70,7 +70,31 @@
 <details>
     <summary>Minhas Contribuições</summary>
     <br>
+
+<details>
+    <summary>Modelagem e Criação do Banco de Dados</summary>
+    <p align="center">
+        <img src="modelo conceitual">
+    </p>
+    <br>
+    <p align="center">
+        <img src="modelo lógico">
+    </p>
+    <br>
+    <a href="https://github.com/DatatechOffice/Api_Iacit/tree/main/Banco/Querys%20-%20IACIT">
+        <p>Queries</p>
+    </a>
+    <br>
+    <a href="https://github.com/DatatechOffice/Api_Iacit/blob/Sprint4/Banco/Dicionario%20de%20Dados/Dicionario%20de%20Dados%20-%20P%C3%A1gina1.pdf">
+        <p>Dicionário de Dados</p>
+    </a>
 </details>
+    <p>
+        Fiz e atualizei durante o projeto a estrutura do nosso banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta.
+    </p>
+
+</details>
+
 
 <h2>Projeto 4º Semestre</h2>
 <h3>Embraer</h3>
