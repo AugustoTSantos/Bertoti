@@ -68,32 +68,39 @@
 <br>
 
 <details>
-    <summary>Minhas Contribuições</summary>
+    <summary><h2>Minhas Contribuições</h2></summary>
     <br>
     <p>
         Fiz e atualizei durante o projeto a estrutura do nosso banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta.
     </p>
-<details>
-    <summary>Modelagem e Criação do Banco de Dados</summary>
+    <details>
+        <summary>Modelagem e Criação do Banco de Dados</summary>
+        <br>
+        Modelo Conceitual
+        <p align="center">
+            <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Conceitual.png">
+        </p>
+        <br>
+        Modelo Lógico
+        <p align="center">
+            <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Logico.png">
+        </p>
+        <br>
+        <a href="https://github.com/DatatechOffice/Api_Iacit/tree/main/Banco/Querys%20-%20IACIT">
+            <p>Queries</p>
+        </a>
+        <br>
+        <a href="https://github.com/DatatechOffice/Api_Iacit/blob/Sprint4/Banco/Dicionario%20de%20Dados/Dicionario%20de%20Dados%20-%20P%C3%A1gina1.pdf">
+            <p>Dicionário de Dados</p>
+        </a>
+    </details>
     <br>
-    Modelo Conceitual
-    <p align="center">
-        <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Conceitual.png">
+    <p>
+        O grupo ainda estava aprendendo spring, consegui fazer a criação do projeto e as primeiras linhas de código
     </p>
-    <br>
-    Modelo Lógico
-    <p align="center">
-        <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Logico.png">
-    </p>
-    <br>
-    <a href="https://github.com/DatatechOffice/Api_Iacit/tree/main/Banco/Querys%20-%20IACIT">
-        <p>Queries</p>
-    </a>
-    <br>
-    <a href="https://github.com/DatatechOffice/Api_Iacit/blob/Sprint4/Banco/Dicionario%20de%20Dados/Dicionario%20de%20Dados%20-%20P%C3%A1gina1.pdf">
-        <p>Dicionário de Dados</p>
-    </a>
-</details>
+    <details>
+        <sumarry>Primeira Iteração do Spring</sumarry>
+    </details>
 </details>
 
 
