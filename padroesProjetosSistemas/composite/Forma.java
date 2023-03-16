@@ -16,15 +16,14 @@ public class Forma implements IForma {
         return nome;
     }
 
-
     @Override
     public String getCor() {
         return cor;
     }
 
-
     @Override
     public void imprimir() {
         System.out.println("A forma é " + getNome() + " e ela é " + getCor());
     }
+
 }
