@@ -2,6 +2,9 @@
 
 <h2>Introdução</h2>
 
+<h2>Conhecimentos Principais</h2>
+<h3>Java, SQL, GIT<h3>
+
 <h2>Projeto 1º Semestre</h2>
 <h3>Simulado</h3>
 
@@ -96,10 +99,41 @@
     </details>
     <br>
     <p>
-        O grupo ainda estava aprendendo spring, consegui fazer a criação do projeto e as primeiras linhas de código
+        O grupo ainda estava aprendendo spring, consegui fazer a criação das primeiras classes do projeto com suas respectivas linhas de código.
     </p>
     <details>
         <sumarry>Primeira Iteração do Spring</sumarry>
+        <p align="center">
+            <img src="">
+        </p>
+    </details>
+    <br>
+    <p>
+        Nesse projeto atuei como PO, então era responsavel por conversar com o cliente, entender seu problema, sugerir uma solução, confirmar a solução, orgaizar um plano de ação e passar essas informações para a equipe de uma forma facil de entender, além de organizar o github.
+    </p>
+    <details>
+        <summary>Modelagem e Criação do Banco de Dados</summary>
+        <a href="https://github.com/DatatechOffice/Api_Iacit">
+            <p>Github Data Tech</p>
+        </a>
+    </details>
+    <br>
+    <p>
+        Durante todo projeto revisei e atulizei identação, espaçamentos, imports e funções das classes, para ficar padrão e mais facil de se trabalhar em sprints futuras
+    </p>
+    <br>
+    <p>
+        Nesse projeto fomos fornecidos com arquivos CSS contendo as informações a serem usadas, porém, elas não estavam em um formato ideal para se trabalhar, então fiz um código para convertelas a um formato fácil de se manipular
+    </p>
+    <details>
+    <summary>Conversão</summary>
+    <p align="center">
+        <img src="">
+    </p>
+    <br>
+    <a href="https://github.com/DatatechOffice/Api_Iacit/blob/main/ConversorCsv/scriptMergeTables.py">
+        <p>Código</p>
+    </a>
     </details>
 </details>
 
