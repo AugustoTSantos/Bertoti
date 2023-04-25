@@ -102,7 +102,7 @@
         O grupo ainda estava aprendendo spring, consegui fazer a criação das primeiras classes do projeto com suas respectivas linhas de código.
     </p>
     <details>
-        <sumarry>Primeira Iteração do Spring</sumarry>
+        <summary>Primeira Iteração do Spring</summary>
         <p align="center">
             <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_1.png">
         </p>
