@@ -104,7 +104,7 @@
     <details>
         <sumarry>Primeira Iteração do Spring</sumarry>
         <p align="center">
-            <img src="">
+            <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_1.png">
         </p>
     </details>
     <br>
@@ -128,7 +128,7 @@
     <details>
     <summary>Conversão</summary>
     <p align="center">
-        <img src="">
+        <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_2.png">
     </p>
     <br>
     <a href="https://github.com/DatatechOffice/Api_Iacit/blob/main/ConversorCsv/scriptMergeTables.py">
