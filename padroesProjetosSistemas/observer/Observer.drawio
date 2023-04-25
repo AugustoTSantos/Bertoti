@@ -1,30 +1,31 @@
 <mxfile host="65bd71144e">
     <diagram id="i-FA5QgVH4RG3s46qrTT" name="Page-1">
-        <mxGraphModel dx="580" dy="270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="580" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="60" value="" style="edgeStyle=none;html=1;dashed=1;endArrow=classic;endFill=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=-0.013;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="52" target="45" edge="1">
+                <mxCell id="60" value="" style="edgeStyle=none;html=1;dashed=1;endArrow=classic;endFill=1;exitX=-0.014;exitY=0.431;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="52" target="45" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="320" y="190" as="sourcePoint"/>
+                        <mxPoint x="370" y="153" as="sourcePoint"/>
+                        <mxPoint x="300" y="170" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="2" value="&amp;lt;&amp;lt; Interface &amp;gt;&amp;gt;&lt;br&gt;InscritoObserverInterface" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;glass=0;" parent="1" vertex="1">
-                    <mxGeometry x="80" y="115" width="170" height="80" as="geometry">
+                    <mxGeometry x="110" y="120" width="140" height="80" as="geometry">
                         <mxRectangle x="170" y="80" width="180" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="45" value="" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" parent="2" vertex="1">
-                    <mxGeometry y="30" width="170" height="10" as="geometry"/>
+                    <mxGeometry y="30" width="140" height="10" as="geometry"/>
                 </mxCell>
                 <mxCell id="39" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ updateVideo()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ updatePost()&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="2" vertex="1">
-                    <mxGeometry y="40" width="170" height="40" as="geometry"/>
+                    <mxGeometry y="40" width="140" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="59" value="" style="edgeStyle=none;html=1;dashed=1;endArrow=block;endFill=0;" parent="1" source="47" target="39" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="47" value="InscritoObserver" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;glass=0;" parent="1" vertex="1">
-                    <mxGeometry x="110" y="240" width="110" height="80" as="geometry">
+                    <mxGeometry x="125" y="240" width="110" height="80" as="geometry">
                         <mxRectangle x="170" y="80" width="180" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
@@ -35,7 +36,7 @@
                     <mxGeometry y="40" width="110" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="50" value="&amp;lt;&amp;lt; Interface &amp;gt;&amp;gt;&lt;br&gt;CanalSubjectInterface" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;glass=0;" parent="1" vertex="1">
-                    <mxGeometry x="370" y="80" width="150" height="110" as="geometry">
+                    <mxGeometry x="335" y="80" width="150" height="110" as="geometry">
                         <mxRectangle x="170" y="80" width="180" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
@@ -49,15 +50,15 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="53" value="CanalSubject" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;glass=0;" parent="1" vertex="1">
-                    <mxGeometry x="350" y="240" width="190" height="250" as="geometry">
+                    <mxGeometry x="340" y="240" width="140" height="250" as="geometry">
                         <mxRectangle x="170" y="80" width="180" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="56" value="- video: String&lt;br&gt;- post: String&lt;br&gt;- inscritos: List" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" parent="53" vertex="1">
-                    <mxGeometry y="30" width="190" height="50" as="geometry"/>
+                    <mxGeometry y="30" width="140" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="55" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ CanalSubject()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ addInscrito()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ removeInscrito(Inscrito inscrito)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ notifyAllInscritosVideo()&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ notifyAllInscritosPost()&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ getVideo(): String&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ setVideo()&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ getPost(): String&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ setPost(post)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ getInscrito(): List&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ sertInscrito()&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="53" vertex="1">
-                    <mxGeometry y="80" width="190" height="170" as="geometry"/>
+                <mxCell id="55" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ CanalSubject()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ addInscrito()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ removeInscrito()&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ notifyAllInscritosVideo()&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ notifyAllInscritosPost()&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ getVideo(): String&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ setVideo()&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ getPost(): String&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ setPost()&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ getInscrito(): List&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ sertInscrito()&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="53" vertex="1">
+                    <mxGeometry y="80" width="140" height="170" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
