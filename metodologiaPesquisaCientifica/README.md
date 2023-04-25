@@ -119,11 +119,11 @@
     </details>
     <br>
     <p>
-        Durante todo projeto revisei e atulizei identação, espaçamentos, imports e funções das classes, para ficar padrão e mais facil de se trabalhar em sprints futuras
+        Durante todo projeto revisei e atulizei identação, espaçamentos, imports e funções das classes, para ficar padrão e mais facil de se trabalhar em sprints futuras.
     </p>
     <br>
     <p>
-        Nesse projeto fomos fornecidos com arquivos CSS contendo as informações a serem usadas, porém, elas não estavam em um formato ideal para se trabalhar, então fiz um código para convertelas a um formato fácil de se manipular
+        Nesse projeto fomos fornecidos com arquivos CSS contendo as informações a serem usadas, porém, elas não estavam em um formato ideal para se trabalhar, então fiz um código para convertelas a um formato fácil de se manipular.
     </p>
     <details>
     <summary>Conversão</summary>
