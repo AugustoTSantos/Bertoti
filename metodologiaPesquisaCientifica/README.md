@@ -1,9 +1,10 @@
 <h1>Augusto Torres Santos</h1>
 
 <h2>Introdução</h2>
+Olá!, meu nome é Augusto, tenho 24 anos e curso Banco de Dados na FATEC SJC, atualmente busco meu primeiro trabalho na área, espero que goste desse rep sobre as APIs que participei.
 
 <h2>Conhecimentos Principais</h2>
-<h3>Java, SQL, GIT<h3>
+Java, SQL, GIT
 
 <h2>Projeto 1º Semestre</h2>
 <h3>Simulado</h3>
