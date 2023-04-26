@@ -113,7 +113,7 @@ Java, SQL, GIT
         Nesse projeto atuei como PO, então era responsavel por conversar com o cliente, entender seu problema, sugerir uma solução, confirmar a solução, orgaizar um plano de ação e passar essas informações para a equipe de uma forma facil de entender, além de organizar o github.
     </p>
     <details>
-        <summary>Modelagem e Criação do Banco de Dados</summary>
+        <summary>Projeto</summary>
         <a href="https://github.com/DatatechOffice/Api_Iacit">
             <p>Github Data Tech</p>
         </a>
