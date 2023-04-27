@@ -1,9 +1,10 @@
 <h1>Augusto Torres Santos</h1>
 
 <h2>Introdução</h2>
+Olá!, meu nome é Augusto, tenho 24 anos e curso Banco de Dados na FATEC SJC, atualmente busco meu primeiro trabalho na área, espero que goste desse rep sobre as APIs que participei.
 
 <h2>Conhecimentos Principais</h2>
-<h3>Java, SQL, GIT<h3>
+Java, SQL, GIT
 
 <h2>Projeto 1º Semestre</h2>
 <h3>Simulado</h3>
@@ -102,9 +103,9 @@
         O grupo ainda estava aprendendo spring, consegui fazer a criação das primeiras classes do projeto com suas respectivas linhas de código.
     </p>
     <details>
-        <sumarry>Primeira Iteração do Spring</sumarry>
+        <summary>Primeira Iteração do Spring</summary>
         <p align="center">
-            <img src="">
+            <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_1.png">
         </p>
     </details>
     <br>
@@ -112,23 +113,23 @@
         Nesse projeto atuei como PO, então era responsavel por conversar com o cliente, entender seu problema, sugerir uma solução, confirmar a solução, orgaizar um plano de ação e passar essas informações para a equipe de uma forma facil de entender, além de organizar o github.
     </p>
     <details>
-        <summary>Modelagem e Criação do Banco de Dados</summary>
+        <summary>Projeto</summary>
         <a href="https://github.com/DatatechOffice/Api_Iacit">
             <p>Github Data Tech</p>
         </a>
     </details>
     <br>
     <p>
-        Durante todo projeto revisei e atulizei identação, espaçamentos, imports e funções das classes, para ficar padrão e mais facil de se trabalhar em sprints futuras
+        Durante todo projeto revisei e atulizei identação, espaçamentos, imports e funções das classes, para ficar padrão e mais facil de se trabalhar em sprints futuras.
     </p>
     <br>
     <p>
-        Nesse projeto fomos fornecidos com arquivos CSS contendo as informações a serem usadas, porém, elas não estavam em um formato ideal para se trabalhar, então fiz um código para convertelas a um formato fácil de se manipular
+        Nesse projeto fomos fornecidos com arquivos CSS contendo as informações a serem usadas, porém, elas não estavam em um formato ideal para se trabalhar, então fiz um código para convertelas a um formato fácil de se manipular.
     </p>
     <details>
     <summary>Conversão</summary>
     <p align="center">
-        <img src="">
+        <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_2.png">
     </p>
     <br>
     <a href="https://github.com/DatatechOffice/Api_Iacit/blob/main/ConversorCsv/scriptMergeTables.py">
