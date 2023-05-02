@@ -1,4 +1,4 @@
-package Bertoti.PlataformaComunicacao;
+package Lab2.PlataformaComunicacao;
 
 import java.util.List;
 import java.util.LinkedList;

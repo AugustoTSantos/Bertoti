@@ -1,4 +1,4 @@
-package Bertoti.PlataformaComunicacao;
+package Lab2.PlataformaComunicacao;
 
 public class Pessoas {
     String nome;
