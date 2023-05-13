@@ -26,7 +26,7 @@
     <summary>Singleton</summary>
     <br>
     <p align="center">
-        <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/padroesProjetosSistemas/singleton/DiagramaSIngleton.drawio">
+        <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/padroesProjetosSistemas/singleton/Screenshot_1.png">
     </p>
 </details>
 
