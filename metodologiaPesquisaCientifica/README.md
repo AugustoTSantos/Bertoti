@@ -14,6 +14,16 @@ Java, SQL, GIT
 
 </p>
 
+<details>
+    <summary><h3>Aprendizados Efetivos</h3></summary>
+    <p align="center">
+        
+    </p>
+
+</details>
+
+--
+
 <h2>Projeto 2º Semestre</h2>
 <h3>Dom Rock</h3>
 
@@ -21,6 +31,16 @@ Java, SQL, GIT
 <p>
 
 </p>
+
+<details>
+    <summary><h3>Aprendizados Efetivos</h3></summary>
+    <p align="center">
+        
+    </p>
+
+</details>
+
+--
 
 <h2>Projeto 3º Semestre</h2>
 <h3>Iacit</h3>
@@ -100,7 +120,7 @@ Java, SQL, GIT
     </details>
     <br>
     <p>
-        O grupo ainda estava aprendendo spring, consegui fazer a criação das primeiras classes do projeto com suas respectivas linhas de código.
+        Consegui fazer a criação das primeiras classes do projeto com suas respectivas linhas de código.
     </p>
     <details>
         <summary>Primeira Iteração do Spring</summary>
@@ -138,6 +158,16 @@ Java, SQL, GIT
     </details>
 </details>
 
+<details>
+    <summary><h3>Aprendizados Efetivos</h3></summary>
+
+    * Inicialização projeto Spring Boot
+    * Maven
+    * Mapeamento de banco de dados
+    * Atuação como PO
+</details>
+
+--
 
 <h2>Projeto 4º Semestre</h2>
 <h3>Embraer</h3>
@@ -147,6 +177,18 @@ Java, SQL, GIT
 
 </p>
 
+
+
+<details>
+    <summary><h3>Aprendizados Efetivos</h3></summary>
+    <p align="center">
+
+    </p>
+
+</details>
+
+--
+
 <h2>Projeto 5º Semestre</h2>
 <h3></h3>
 
@@ -155,6 +197,16 @@ Java, SQL, GIT
 
 </p>
 
+<details>
+    <summary><h3>Aprendizados Efetivos</h3></summary>
+    <p align="center">
+        
+    </p>
+
+</details>
+
+--
+
 <h2>Projeto 6º Semestre</h2>
 <h3></h3>
 
@@ -162,5 +214,13 @@ Java, SQL, GIT
 <p>
 
 </p>
+
+<details>
+    <summary><h3>Aprendizados Efetivos</h3></summary>
+    <p align="center">
+        
+    </p>
+
+</details>
 
 <h1>Contato</h1>
