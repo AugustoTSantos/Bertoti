@@ -22,7 +22,6 @@ Java, SQL, GIT
 
 </details>
 
---
 
 <h2>Projeto 2º Semestre</h2>
 <h3>Dom Rock</h3>
@@ -40,7 +39,6 @@ Java, SQL, GIT
 
 </details>
 
---
 
 <h2>Projeto 3º Semestre</h2>
 <h3>Iacit</h3>
@@ -95,42 +93,45 @@ Java, SQL, GIT
     <summary><h2>Minhas Contribuições</h2></summary>
     <br>
     <p>
-        Fiz e atualizei durante o projeto a estrutura do nosso banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta.
+        - Fiz e atualizei durante o projeto a estrutura do nosso banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta.
     </p>
     <details>
         <summary>Modelagem e Criação do Banco de Dados</summary>
         <br>
-        Modelo Conceitual
+        O desenho do modelo conceitual feito pelo brModelo
         <p align="center">
             <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Conceitual.png">
         </p>
         <br>
-        Modelo Lógico
+        O desenho do modelo lógico feito a partir do conceitual no brModelo.
         <p align="center">
             <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Logico.png">
         </p>
         <br>
+        As linhas que foram usadas para a criação do banco.
         <a href="https://github.com/DatatechOffice/Api_Iacit/tree/main/Banco/Querys%20-%20IACIT">
             <p>Queries</p>
         </a>
         <br>
+        O dicionário de dados feito para ficar mais facil o entendimento de quem quiser ver o projeto mais afundo.
         <a href="https://github.com/DatatechOffice/Api_Iacit/blob/Sprint4/Banco/Dicionario%20de%20Dados/Dicionario%20de%20Dados%20-%20P%C3%A1gina1.pdf">
             <p>Dicionário de Dados</p>
         </a>
     </details>
     <br>
     <p>
-        Consegui fazer a criação das primeiras classes do projeto com suas respectivas linhas de código.
+        - Consegui fazer a criação das primeiras classes do projeto com suas respectivas linhas de código.
     </p>
     <details>
         <summary>Primeira Iteração do Spring</summary>
+        O projeto foi feita seguindo padrão do Spring Boot, abaixo um print demonstrando parte da estrutura.
         <p align="center">
             <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_1.png">
         </p>
     </details>
     <br>
     <p>
-        Nesse projeto atuei como PO, então era responsavel por conversar com o cliente, entender seu problema, sugerir uma solução, confirmar a solução, orgaizar um plano de ação e passar essas informações para a equipe de uma forma facil de entender, além de organizar o github.
+        - Nesse projeto atuei como PO, então era responsavel por conversar com o cliente, entender seu problema, sugerir uma solução, confirmar a solução, orgaizar um plano de ação e passar essas informações para a equipe de uma forma facil de entender, além de organizar o github.
     </p>
     <details>
         <summary>Projeto</summary>
@@ -140,22 +141,24 @@ Java, SQL, GIT
     </details>
     <br>
     <p>
-        Durante todo projeto revisei e atulizei identação, espaçamentos, imports e funções das classes, para ficar padrão e mais facil de se trabalhar em sprints futuras.
+        - Nesse projeto fomos fornecidos com arquivos CSS contendo as informações a serem usadas, porém, elas não estavam em um formato ideal para se trabalhar, então fiz um código para convertelas a um formato fácil de se manipular.
     </p>
+    <br>
+    <details>
+        <summary>Conversão</summary>
+        O arquivo feito em Python para filtrar o CSS para um formato facil de manipular.
+        <p align="center">
+            <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_2.png">
+        </p>
+        <br>
+        <a href="https://github.com/DatatechOffice/Api_Iacit/blob/main/ConversorCsv/scriptMergeTables.py">
+            <p>Código</p>
+        </a>
+    </details>
     <br>
     <p>
-        Nesse projeto fomos fornecidos com arquivos CSS contendo as informações a serem usadas, porém, elas não estavam em um formato ideal para se trabalhar, então fiz um código para convertelas a um formato fácil de se manipular.
+        - Durante todo projeto revisei e atulizei identação, espaçamentos, imports e funções das classes, para ficar padrão e mais facil de se trabalhar em sprints futuras.
     </p>
-    <details>
-    <summary>Conversão</summary>
-    <p align="center">
-        <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_2.png">
-    </p>
-    <br>
-    <a href="https://github.com/DatatechOffice/Api_Iacit/blob/main/ConversorCsv/scriptMergeTables.py">
-        <p>Código</p>
-    </a>
-    </details>
 </details>
 
 <details>
@@ -167,7 +170,6 @@ Java, SQL, GIT
     * Atuação como PO
 </details>
 
---
 
 <h2>Projeto 4º Semestre</h2>
 <h3>Embraer</h3>
@@ -187,7 +189,6 @@ Java, SQL, GIT
 
 </details>
 
---
 
 <h2>Projeto 5º Semestre</h2>
 <h3></h3>
@@ -205,7 +206,6 @@ Java, SQL, GIT
 
 </details>
 
---
 
 <h2>Projeto 6º Semestre</h2>
 <h3></h3>
