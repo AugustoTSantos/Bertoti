@@ -66,22 +66,18 @@ Java, SQL, GIT
 <details>
     <summary>Modelagem e Criação do Banco de Dados</summary>
     <br>
-    O desenho do modelo conceitual feito pelo brModelo
     <p align="center">
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Conceitual.png">
     </p>
     <br>
-    O desenho do modelo lógico feito a partir do conceitual no brModelo.
     <p align="center">
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Logico.png">
     </p>
     <br>
-    As linhas que foram usadas para a criação do banco.
     <a href="https://github.com/DatatechOffice/Api_Iacit/tree/main/Banco/Querys%20-%20IACIT">
         <p>Queries</p>
     </a>
     <br>
-    O dicionário de dados feito para ficar mais facil o entendimento de quem quiser ver o projeto mais afundo.
     <a href="https://github.com/DatatechOffice/Api_Iacit/blob/Sprint4/Banco/Dicionario%20de%20Dados/Dicionario%20de%20Dados%20-%20P%C3%A1gina1.pdf">
         <p>Dicionário de Dados</p>
     </a>
@@ -92,7 +88,6 @@ Java, SQL, GIT
     
 <details>
     <summary>Primeira Iteração do Spring</summary>
-    O projeto foi feita seguindo padrão do Spring Boot, abaixo um print demonstrando parte da estrutura.
     <p align="center">
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_1.png">
     </p>
@@ -111,10 +106,8 @@ Java, SQL, GIT
 
 - Nesse projeto fomos fornecidos com arquivos CSS contendo as informações a serem usadas, porém, elas não estavam em um formato ideal para se trabalhar, então fiz um código para convertelas a um formato fácil de se manipular.
 
-<br>
 <details>
     <summary>Conversão</summary>
-    O arquivo feito em Python para filtrar o CSS para um formato facil de manipular.
     <p align="center">
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_2.png">
     </p>
