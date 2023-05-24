@@ -6,39 +6,7 @@ Olá!, meu nome é Augusto, tenho 24 anos e curso Banco de Dados na FATEC SJC, a
 <h2>Conhecimentos Principais</h2>
 Java, SQL, GIT
 
-<h2>Projeto 1º Semestre</h2>
-<h3>Simulado</h3>
-
-<h3>Visão do projeto</h3>
-<p>
-
-</p>
-
-<details>
-    <summary><h3>Aprendizados Efetivos</h3></summary>
-    <p align="center">
-        
-    </p>
-
-</details>
-
-
-<h2>Projeto 2º Semestre</h2>
-<h3>Dom Rock</h3>
-
-<h3>Visão do projeto</h3>
-<p>
-
-</p>
-
-<details>
-    <summary><h3>Aprendizados Efetivos</h3></summary>
-    <p align="center">
-        
-    </p>
-
-</details>
-
+<br>
 
 <h2>Projeto 3º Semestre</h2>
 <h3>Iacit</h3>
@@ -169,58 +137,3 @@ Java, SQL, GIT
     * Mapeamento de banco de dados
     * Atuação como PO
 </details>
-
-
-<h2>Projeto 4º Semestre</h2>
-<h3>Embraer</h3>
-
-<h3>Visão do projeto</h3>
-<p>
-
-</p>
-
-
-
-<details>
-    <summary><h3>Aprendizados Efetivos</h3></summary>
-    <p align="center">
-
-    </p>
-
-</details>
-
-
-<h2>Projeto 5º Semestre</h2>
-<h3></h3>
-
-<h3>Visão do projeto</h3>
-<p>
-
-</p>
-
-<details>
-    <summary><h3>Aprendizados Efetivos</h3></summary>
-    <p align="center">
-        
-    </p>
-
-</details>
-
-
-<h2>Projeto 6º Semestre</h2>
-<h3></h3>
-
-<h3>Visão do projeto</h3>
-<p>
-
-</p>
-
-<details>
-    <summary><h3>Aprendizados Efetivos</h3></summary>
-    <p align="center">
-        
-    </p>
-
-</details>
-
-<h1>Contato</h1>
