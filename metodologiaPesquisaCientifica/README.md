@@ -60,9 +60,9 @@ Java, SQL, GIT
 
 <h2>Minhas Contribuições</h2>
 <br>
-<p>
-    - Fiz e atualizei durante o projeto a estrutura do nosso banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta.
-</p>
+
+- Estruturação do banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta.
+
 <details>
     <summary>Modelagem e Criação do Banco de Dados</summary>
     <br>
@@ -87,9 +87,9 @@ Java, SQL, GIT
     </a>
 </details>
 <br>
-<p>
-    - Consegui fazer a criação das primeiras classes do projeto com suas respectivas linhas de código.
-</p>
+
+- Consegui fazer a criação das primeiras classes do projeto com suas respectivas linhas de código.
+    
 <details>
     <summary>Primeira Iteração do Spring</summary>
     O projeto foi feita seguindo padrão do Spring Boot, abaixo um print demonstrando parte da estrutura.
@@ -98,9 +98,9 @@ Java, SQL, GIT
     </p>
 </details>
 <br>
-<p>
-    - Nesse projeto atuei como PO, então era responsavel por conversar com o cliente, entender seu problema, sugerir uma solução, confirmar a solução, orgaizar um plano de ação e passar essas informações para a equipe de uma forma facil de entender, além de organizar o github.
-</p>
+
+- Nesse projeto atuei como PO, então era responsavel por conversar com o cliente, entender seu problema, sugerir uma solução, confirmar a solução, orgaizar um plano de ação e passar essas informações para a equipe de uma forma facil de entender, além de organizar o github.
+
 <details>
     <summary>Projeto</summary>
     <a href="https://github.com/DatatechOffice/Api_Iacit">
@@ -108,9 +108,9 @@ Java, SQL, GIT
     </a>
 </details>
 <br>
-<p>
-    - Nesse projeto fomos fornecidos com arquivos CSS contendo as informações a serem usadas, porém, elas não estavam em um formato ideal para se trabalhar, então fiz um código para convertelas a um formato fácil de se manipular.
-</p>
+
+- Nesse projeto fomos fornecidos com arquivos CSS contendo as informações a serem usadas, porém, elas não estavam em um formato ideal para se trabalhar, então fiz um código para convertelas a um formato fácil de se manipular.
+
 <br>
 <details>
     <summary>Conversão</summary>
@@ -124,10 +124,8 @@ Java, SQL, GIT
     </a>
 </details>
 <br>
-<p>
-    - Durante todo projeto revisei e atulizei identação, espaçamentos, imports e funções das classes, para ficar padrão e mais facil de se trabalhar em sprints futuras.
-</p>
 
+- Durante todo projeto revisei e atulizei identação, espaçamentos, imports e funções das classes, para ficar padrão e mais facil de se trabalhar em sprints futuras.
 
 <br>
 
