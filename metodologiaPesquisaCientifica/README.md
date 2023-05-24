@@ -57,83 +57,83 @@ Java, SQL, GIT
 </details>
 <br>
 
+
+<h2>Minhas Contribuições</h2>
+<br>
+<p>
+    - Fiz e atualizei durante o projeto a estrutura do nosso banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta.
+</p>
 <details>
-    <summary><h2>Minhas Contribuições</h2></summary>
+    <summary>Modelagem e Criação do Banco de Dados</summary>
     <br>
-    <p>
-        - Fiz e atualizei durante o projeto a estrutura do nosso banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta.
-    </p>
-    <details>
-        <summary>Modelagem e Criação do Banco de Dados</summary>
-        <br>
-        O desenho do modelo conceitual feito pelo brModelo
-        <p align="center">
-            <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Conceitual.png">
-        </p>
-        <br>
-        O desenho do modelo lógico feito a partir do conceitual no brModelo.
-        <p align="center">
-            <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Logico.png">
-        </p>
-        <br>
-        As linhas que foram usadas para a criação do banco.
-        <a href="https://github.com/DatatechOffice/Api_Iacit/tree/main/Banco/Querys%20-%20IACIT">
-            <p>Queries</p>
-        </a>
-        <br>
-        O dicionário de dados feito para ficar mais facil o entendimento de quem quiser ver o projeto mais afundo.
-        <a href="https://github.com/DatatechOffice/Api_Iacit/blob/Sprint4/Banco/Dicionario%20de%20Dados/Dicionario%20de%20Dados%20-%20P%C3%A1gina1.pdf">
-            <p>Dicionário de Dados</p>
-        </a>
-    </details>
-    <br>
-    <p>
-        - Consegui fazer a criação das primeiras classes do projeto com suas respectivas linhas de código.
-    </p>
-    <details>
-        <summary>Primeira Iteração do Spring</summary>
-        O projeto foi feita seguindo padrão do Spring Boot, abaixo um print demonstrando parte da estrutura.
-        <p align="center">
-            <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_1.png">
-        </p>
-    </details>
-    <br>
-    <p>
-        - Nesse projeto atuei como PO, então era responsavel por conversar com o cliente, entender seu problema, sugerir uma solução, confirmar a solução, orgaizar um plano de ação e passar essas informações para a equipe de uma forma facil de entender, além de organizar o github.
-    </p>
-    <details>
-        <summary>Projeto</summary>
-        <a href="https://github.com/DatatechOffice/Api_Iacit">
-            <p>Github Data Tech</p>
-        </a>
-    </details>
-    <br>
-    <p>
-        - Nesse projeto fomos fornecidos com arquivos CSS contendo as informações a serem usadas, porém, elas não estavam em um formato ideal para se trabalhar, então fiz um código para convertelas a um formato fácil de se manipular.
+    O desenho do modelo conceitual feito pelo brModelo
+    <p align="center">
+        <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Conceitual.png">
     </p>
     <br>
-    <details>
-        <summary>Conversão</summary>
-        O arquivo feito em Python para filtrar o CSS para um formato facil de manipular.
-        <p align="center">
-            <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_2.png">
-        </p>
-        <br>
-        <a href="https://github.com/DatatechOffice/Api_Iacit/blob/main/ConversorCsv/scriptMergeTables.py">
-            <p>Código</p>
-        </a>
-    </details>
+    O desenho do modelo lógico feito a partir do conceitual no brModelo.
+    <p align="center">
+        <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Logico.png">
+    </p>
     <br>
-    <p>
-        - Durante todo projeto revisei e atulizei identação, espaçamentos, imports e funções das classes, para ficar padrão e mais facil de se trabalhar em sprints futuras.
+    As linhas que foram usadas para a criação do banco.
+    <a href="https://github.com/DatatechOffice/Api_Iacit/tree/main/Banco/Querys%20-%20IACIT">
+        <p>Queries</p>
+    </a>
+    <br>
+    O dicionário de dados feito para ficar mais facil o entendimento de quem quiser ver o projeto mais afundo.
+    <a href="https://github.com/DatatechOffice/Api_Iacit/blob/Sprint4/Banco/Dicionario%20de%20Dados/Dicionario%20de%20Dados%20-%20P%C3%A1gina1.pdf">
+        <p>Dicionário de Dados</p>
+    </a>
+</details>
+<br>
+<p>
+    - Consegui fazer a criação das primeiras classes do projeto com suas respectivas linhas de código.
+</p>
+<details>
+    <summary>Primeira Iteração do Spring</summary>
+    O projeto foi feita seguindo padrão do Spring Boot, abaixo um print demonstrando parte da estrutura.
+    <p align="center">
+        <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_1.png">
     </p>
 </details>
-
+<br>
+<p>
+    - Nesse projeto atuei como PO, então era responsavel por conversar com o cliente, entender seu problema, sugerir uma solução, confirmar a solução, orgaizar um plano de ação e passar essas informações para a equipe de uma forma facil de entender, além de organizar o github.
+</p>
 <details>
-    <summary><h3>Aprendizados Efetivos</h3></summary>
-
-    * Inicialização projeto Spring Boot
-    * Maven
-    * Mapeamento de banco de dados
-    * Atuação como PO
+    <summary>Projeto</summary>
+    <a href="https://github.com/DatatechOffice/Api_Iacit">
+        <p>Github Data Tech</p>
+    </a>
 </details>
+<br>
+<p>
+    - Nesse projeto fomos fornecidos com arquivos CSS contendo as informações a serem usadas, porém, elas não estavam em um formato ideal para se trabalhar, então fiz um código para convertelas a um formato fácil de se manipular.
+</p>
+<br>
+<details>
+    <summary>Conversão</summary>
+    O arquivo feito em Python para filtrar o CSS para um formato facil de manipular.
+    <p align="center">
+        <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_2.png">
+    </p>
+    <br>
+    <a href="https://github.com/DatatechOffice/Api_Iacit/blob/main/ConversorCsv/scriptMergeTables.py">
+        <p>Código</p>
+    </a>
+</details>
+<br>
+<p>
+    - Durante todo projeto revisei e atulizei identação, espaçamentos, imports e funções das classes, para ficar padrão e mais facil de se trabalhar em sprints futuras.
+</p>
+
+
+<br>
+
+<h3>Aprendizados Efetivos</h3>
+
+* Inicialização projeto Spring Boot
+* Maven
+* Mapeamento de banco de dados
+* Atuação como PO
