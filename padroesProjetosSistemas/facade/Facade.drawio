@@ -1,61 +1,31 @@
 <mxfile host="65bd71144e">
     <diagram id="WZEYdAGoG9L1kX_4EpiY" name="Page-1">
-        <mxGraphModel dx="522" dy="228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="216" dy="108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="EmailFacade" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="20" y="150" width="170" height="100" as="geometry"/>
+                <mxCell id="2" value="MusicPlayerFacade" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="150" width="170" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="&lt;span style=&quot;&quot;&gt;- emailGmail: EmailGmail&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- emailOutlook: EmailOutlook&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                <mxCell id="3" value="&lt;span style=&quot;&quot;&gt;- musicPlayer: MusicPlayer&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2" vertex="1">
                     <mxGeometry y="26" width="170" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="+ EnviarEmailGmail()&lt;br&gt;+ EnviarEmailOutlook()" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
-                    <mxGeometry y="56" width="170" height="44" as="geometry"/>
+                <mxCell id="4" value="+ PlayMusic(String song)&lt;br&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+                    <mxGeometry y="56" width="170" height="34" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;br&gt;IEmail" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="290" y="180" width="120" height="60" as="geometry"/>
+                <mxCell id="5" value="MusicPlayer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="160" width="120" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5">
+                <mxCell id="6" value="" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5" vertex="1">
                     <mxGeometry y="26" width="120" height="4" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="+ enviarEmail()" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="5">
-                    <mxGeometry y="30" width="120" height="30" as="geometry"/>
+                <mxCell id="7" value="+ load(String song)&lt;br&gt;+ play()" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="5" vertex="1">
+                    <mxGeometry y="30" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="EmailGmail" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="365" y="280" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="9" value="" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8">
-                    <mxGeometry y="26" width="120" height="4" as="geometry"/>
-                </mxCell>
-                <mxCell id="10" value="+ enviarEmail()" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8">
-                    <mxGeometry y="30" width="120" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="11" value="EmailOutlook" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="220" y="280" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="12" value="" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="11">
-                    <mxGeometry y="26" width="120" height="4" as="geometry"/>
-                </mxCell>
-                <mxCell id="13" value="+ enviarEmail()" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="11">
-                    <mxGeometry y="30" width="120" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="14" style="edgeStyle=none;html=1;exitX=0.308;exitY=-0.017;exitDx=0;exitDy=0;entryX=0.825;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=default;labelBorderColor=none;dashed=1;exitPerimeter=0;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="8" target="7">
+                <mxCell id="16" style="edgeStyle=none;html=1;fontColor=default;labelBorderColor=none;endArrow=classic;endFill=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="3">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="420" y="190" as="sourcePoint"/>
-                        <mxPoint x="369.03999999999996" y="189" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="15" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.292;entryY=1.167;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=default;labelBorderColor=none;dashed=1;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="11" target="7">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="411.96000000000004" y="288.98" as="sourcePoint"/>
-                        <mxPoint x="399" y="253" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="16" style="edgeStyle=none;html=1;exitX=-0.025;exitY=-0.1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontColor=default;labelBorderColor=none;endArrow=diamondThin;endFill=1;exitPerimeter=0;" edge="1" parent="1" source="7" target="3">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="320" y="290" as="sourcePoint"/>
-                        <mxPoint x="335.03999999999996" y="255.01" as="targetPoint"/>
+                        <mxPoint x="260" y="199" as="sourcePoint"/>
+                        <mxPoint x="210" y="100" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>
