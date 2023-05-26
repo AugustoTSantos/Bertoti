@@ -57,7 +57,7 @@ Java, SQL, GIT
 </details>
 <br>
 
-
+Tendo em vista as informações providas pelo cliente, por perguntas e arquivos CSS, foi feita uma entidade para cada tipo de informação meteorológica coletada pelas estões, que estão conectadas a todas essas entidades e entidades para identificar seu posicionamento.
 <h2>Minhas Contribuições</h2>
 <br>
 
@@ -81,20 +81,24 @@ Java, SQL, GIT
     <a href="https://github.com/DatatechOffice/Api_Iacit/blob/Sprint4/Banco/Dicionario%20de%20Dados/Dicionario%20de%20Dados%20-%20P%C3%A1gina1.pdf">
         <p>Dicionário de Dados</p>
     </a>
+    
+    
 </details>
 <br>
 
-- Consegui fazer a criação das primeiras classes do projeto com suas respectivas linhas de código.
+-Inicialização do back-end do projeto.
     
 <details>
     <summary>Primeira Iteração do Spring</summary>
     <p align="center">
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_1.png">
     </p>
+    
+    Por mais que o SpringBoot fosse uma tecnologia nova para a equipe decimidos usalo devido a sua estrutura, facilitando trabalhar com Maven.
 </details>
 <br>
 
-- Nesse projeto atuei como PO, então era responsavel por conversar com o cliente, entender seu problema, sugerir uma solução, confirmar a solução, orgaizar um plano de ação e passar essas informações para a equipe de uma forma facil de entender, além de organizar o github.
+- Atuação como PO, responsavel por conversar com o cliente, entender seus problemas, sugerir soluções, orgaizar um plano de ação e passar essas informações para a equipe de uma forma facil de entender, além de organizar o github.
 
 <details>
     <summary>Projeto</summary>
@@ -104,7 +108,7 @@ Java, SQL, GIT
 </details>
 <br>
 
-- Nesse projeto fomos fornecidos com arquivos CSS contendo as informações a serem usadas, porém, elas não estavam em um formato ideal para se trabalhar, então fiz um código para convertelas a um formato fácil de se manipular.
+- conversão de arquivo CSS.
 
 <details>
     <summary>Conversão</summary>
@@ -115,16 +119,18 @@ Java, SQL, GIT
     <a href="https://github.com/DatatechOffice/Api_Iacit/blob/main/ConversorCsv/scriptMergeTables.py">
         <p>Código</p>
     </a>
+    
+    Nós recebemos as informações para o projeto em arquivos CSS pórem eles não estavam ideais para se trabalhar, então usamos um pequeno programa em python para formatar os documentos.
 </details>
 <br>
 
-- Durante todo projeto revisei e atulizei identação, espaçamentos, imports e funções das classes, para ficar padrão e mais facil de se trabalhar em sprints futuras.
+- Revisão e Atualização da padronização, imports e funções das classes, para facilitar o trabalho em sprints futuras.
 
 <br>
 
 <h3>Aprendizados Efetivos</h3>
 
-* Inicialização projeto Spring Boot
-* Maven
+* Spring Boot
+* Maven dev tools
 * Mapeamento de banco de dados
 * Atuação como PO
