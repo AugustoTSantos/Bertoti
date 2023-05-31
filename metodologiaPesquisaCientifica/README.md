@@ -57,7 +57,6 @@ Java, SQL, GIT
 </details>
 <br>
 
-Tendo em vista as informações providas pelo cliente, por perguntas e arquivos CSS, foi feita uma entidade para cada tipo de informação meteorológica coletada pelas estões, que estão conectadas a todas essas entidades e entidades para identificar seu posicionamento.
 <h2>Minhas Contribuições</h2>
 <br>
 
@@ -83,6 +82,7 @@ Tendo em vista as informações providas pelo cliente, por perguntas e arquivos 
     </a>
     
     
+Tendo em vista as informações providas pelo cliente, por perguntas e arquivos CSS, foi feita uma entidade para cada tipo de informação meteorológica coletada pelas estões, que estão conectadas a todas essas entidades e entidades para identificar seu posicionamento.
 </details>
 <br>
 
