@@ -60,10 +60,8 @@ Java, SQL, GIT
 <h2>Minhas Contribuições</h2>
 <br>
 
-- Estruturação do banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta.
-
 <details>
-    <summary>Modelagem e Criação do Banco de Dados</summary>
+    <summary>Estruturação do banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta</summary>
     <br>
     <p align="center">
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Conceitual.png">
@@ -72,46 +70,37 @@ Java, SQL, GIT
     <p align="center">
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Logico.png">
     </p>
-    <br>
     <a href="https://github.com/DatatechOffice/Api_Iacit/tree/main/Banco/Querys%20-%20IACIT">
         <p>Queries</p>
     </a>
-    <br>
     <a href="https://github.com/DatatechOffice/Api_Iacit/blob/Sprint4/Banco/Dicionario%20de%20Dados/Dicionario%20de%20Dados%20-%20P%C3%A1gina1.pdf">
         <p>Dicionário de Dados</p>
     </a>
-    
-    
-Tendo em vista as informações providas pelo cliente, por perguntas e arquivos CSS, foi feita uma entidade para cada tipo de informação meteorológica coletada pelas estões, que estão conectadas a todas essas entidades e entidades para identificar seu posicionamento.
+
+* Tendo em vista as informações providas pelo cliente, por perguntas e arquivos CSS, foi feita uma entidade para cada tipo de informação meteorológica coletada pelas estões, que estão conectadas a todas essas entidades e entidades para identificar seu posicionamento.
 </details>
 <br>
-
--Inicialização do back-end do projeto.
     
 <details>
-    <summary>Primeira Iteração do Spring</summary>
+    <summary>Inicialização do back-end do projeto</summary>
     <p align="center">
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_1.png">
     </p>
     
-    Por mais que o SpringBoot fosse uma tecnologia nova para a equipe decimidos usalo devido a sua estrutura, facilitando trabalhar com Maven.
+* Por mais que o SpringBoot fosse uma tecnologia nova para a equipe decimidos usá-lo devido a sua estrutura, facilitando trabalhar com Maven.
 </details>
 <br>
 
-- Atuação como PO, responsavel por conversar com o cliente, entender seus problemas, sugerir soluções, orgaizar um plano de ação e passar essas informações para a equipe de uma forma facil de entender, além de organizar o github.
-
 <details>
-    <summary>Projeto</summary>
+    <summary>Atuação como PO, responsavel por conversar com o cliente, entender seus problemas, sugerir soluções, orgaizar um plano de ação e passar essas informações para a equipe de uma forma facil de entender, além de organizar o github</summary>
     <a href="https://github.com/DatatechOffice/Api_Iacit">
         <p>Github Data Tech</p>
     </a>
 </details>
 <br>
 
-- conversão de arquivo CSS.
-
 <details>
-    <summary>Conversão</summary>
+    <summary>Conversão de arquivo CSS</summary>
     <p align="center">
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Screenshot_2.png">
     </p>
@@ -120,7 +109,7 @@ Tendo em vista as informações providas pelo cliente, por perguntas e arquivos 
         <p>Código</p>
     </a>
     
-    Nós recebemos as informações para o projeto em arquivos CSS pórem eles não estavam ideais para se trabalhar, então usamos um pequeno programa em python para formatar os documentos.
+* Nós recebemos as informações para o projeto em arquivos CSS pórem eles não estavam ideais para se trabalhar, então usamos um pequeno programa em python para formatar os documentos.
 </details>
 <br>
 
