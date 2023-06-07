@@ -13,7 +13,7 @@ Java, SQL, GIT
 
 <h3>Visão do projeto</h3>
 <p>
-    Desenvolver uma plataforma web onde será mais rapido, pratico e intuitivo para funcionarios Iacit acessarem e criarem relatórios em formato de grafico de linhas.
+    Criar um website com as informações do Instituto Nacional de Meteorologia - INMET, de 2020 até o último mês dos dias atuais, onde funcionários da Iacit poderão filtrar as informações meteorológicas por data, região, estado, estação e variavel de uma forma rápida e intuitiva, e com os filtros gerar e salvar relatórios compostos por gráficos de linhas e planilhas. Além disso alguns funcionários da Iacit terão a função de administrador da plataforma sendo capazes de permitir o acesso de outras pessoas a plataforma alterar usuários normais para administradores e gerenciar relatórios.
 </p>
 
 <h3>Tecnologias Utilizadas</h3>
@@ -66,7 +66,9 @@ Java, SQL, GIT
     <p align="center">
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Conceitual.png">
     </p>
-    <br>
+    <p>
+        Tendo em vista as informações providas pelo cliente, por perguntas e arquivos CSS, foi feita uma entidade para cada tipo de informação meteorológica coletada pelas estões, que estão conectadas a todas essas entidades e entidades para identificar seu posicionamento.
+    </p>
     <p align="center">
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Logico.png">
     </p>
@@ -76,8 +78,6 @@ Java, SQL, GIT
     <a href="https://github.com/DatatechOffice/Api_Iacit/blob/Sprint4/Banco/Dicionario%20de%20Dados/Dicionario%20de%20Dados%20-%20P%C3%A1gina1.pdf">
         <p>Dicionário de Dados</p>
     </a>
-
-* Tendo em vista as informações providas pelo cliente, por perguntas e arquivos CSS, foi feita uma entidade para cada tipo de informação meteorológica coletada pelas estões, que estão conectadas a todas essas entidades e entidades para identificar seu posicionamento.
 </details>
 <br>
     
