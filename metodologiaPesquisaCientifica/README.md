@@ -72,6 +72,9 @@ Java, SQL, GIT
     <p align="center">
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Logico.png">
     </p>
+    <p>
+        Também levando em consideração as interações com o cliente essa foi a forma final do modelo lógico, uma forma mais refinida do modelo conceitual que reflete melhor as informações.
+    </p>
     <a href="https://github.com/DatatechOffice/Api_Iacit/tree/main/Banco/Querys%20-%20IACIT">
         <p>Queries</p>
     </a>
