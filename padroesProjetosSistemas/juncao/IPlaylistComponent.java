@@ -1,5 +1,5 @@
 package juncao;
 
 public interface IPlaylistComponent {
-    void reproduzir();
+    public void reproduzir();
 }

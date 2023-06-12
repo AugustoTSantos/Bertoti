@@ -1,5 +1,5 @@
 package juncao;
 
 public interface IObserver {
-    void atualizar();
+    public void atualizar();
 }
